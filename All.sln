@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{E681C07D-98B6-44AE-8899-9D9E00956168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Direct", "Direct\Direct.csproj", "{DCF4C088-18F1-45BC-B057-04D7F0FBFE7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indirect", "Indirect\Indirect.csproj", "{09183A53-4FE5-4836-A956-9D822E24A572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E681C07D-98B6-44AE-8899-9D9E00956168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E681C07D-98B6-44AE-8899-9D9E00956168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E681C07D-98B6-44AE-8899-9D9E00956168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E681C07D-98B6-44AE-8899-9D9E00956168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCF4C088-18F1-45BC-B057-04D7F0FBFE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF4C088-18F1-45BC-B057-04D7F0FBFE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF4C088-18F1-45BC-B057-04D7F0FBFE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF4C088-18F1-45BC-B057-04D7F0FBFE7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09183A53-4FE5-4836-A956-9D822E24A572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09183A53-4FE5-4836-A956-9D822E24A572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09183A53-4FE5-4836-A956-9D822E24A572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09183A53-4FE5-4836-A956-9D822E24A572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A77FDBDC-22C8-4041-A3A3-F8122DF02DB8}
+	EndGlobalSection
+EndGlobal
